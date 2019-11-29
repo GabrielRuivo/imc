@@ -1,0 +1,49 @@
+
+body,hmtl {
+
+    margin: 0;
+    max-width: 100%;
+
+}
+header{
+    background-color: black;
+    width: 100%;
+    height: 60px;
+}
+h1 {
+    color: aliceblue;
+    position: relative;
+    margin: 0;
+    text-align: center;
+}
+table{
+    border: 1px solid black;
+    width: 70%;
+    margin: 10% 15%;
+}
+th {
+    border: 1px solid black;
+}
+
+#altura, #peso, #nome{
+    width: 50%;
+    height: 30px;
+    margin-left: 24%;
+    border-radius: 10px;
+}
+.labels {
+    margin-left: 24%;
+}
+#btn-calc{
+    cursor: pointer;
+    border-radius: 10px;
+    margin-top: 3%;
+    margin-left: 45%;
+    height: 50px;
+    width: 100px;
+    background-color: rgb(30, 126, 190)
+}
+#img {
+    margin-left: 34%;
+    margin-top: 5%;
+}
